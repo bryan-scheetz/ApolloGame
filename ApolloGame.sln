@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApolloGame", "ApolloGame\ApolloGame.csproj", "{2733A2C2-42E1-4AF6-AE68-E9223D03B99D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2733A2C2-42E1-4AF6-AE68-E9223D03B99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2733A2C2-42E1-4AF6-AE68-E9223D03B99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2733A2C2-42E1-4AF6-AE68-E9223D03B99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2733A2C2-42E1-4AF6-AE68-E9223D03B99D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBBD3090-550B-46B0-A075-F99754D22D7D}
+	EndGlobalSection
+EndGlobal
