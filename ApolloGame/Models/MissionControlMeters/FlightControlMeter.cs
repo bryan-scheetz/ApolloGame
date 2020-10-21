@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ApolloGame.Models
 {
-    public class FlightControlMeter : Slider
+    public class FlightControlMeter : Meter
     {
         public override void SpecialRange(Astronaut astronaut)
         {
